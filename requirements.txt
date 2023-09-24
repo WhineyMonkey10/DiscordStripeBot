@@ -1,0 +1,9 @@
+asyncio
+click
+colorama
+discord
+discord.py
+InquirerPy
+requests
+stripe
+typing-extensions
